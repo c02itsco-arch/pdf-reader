@@ -1,3 +1,0 @@
-# Gemini API Key - Required for the application to function.
-# Prefix with VITE_ to expose it to the client-side code in a Vite project.
-VITE_API_KEY
